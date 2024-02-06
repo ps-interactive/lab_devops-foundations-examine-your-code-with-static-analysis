@@ -1,5 +1,6 @@
 from velocity import velocity
 from gripperArm import gripperArm
+from robotRepository import robotRepository
 
 class robot:
     def __init__(self, velocity = velocity(0,0)):
